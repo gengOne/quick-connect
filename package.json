@@ -1,0 +1,17 @@
+{
+  "name": "quick-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ssh-connect": "./src/index.cjs"
+  },
+  "author": "yin_huaigeng",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}

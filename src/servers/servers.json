@@ -1,0 +1,8 @@
+{
+    "serveList": [{
+        "alias": "aws-1",
+        "host": "3.90.213.247",
+        "userName": "ec2-user",
+        "signName": "3.90.213.247.pem" 
+    }]
+}
